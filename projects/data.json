@@ -1,11 +1,19 @@
 [
     {
-        "name":"tutorial name",
-        "description":"verbose description",
-        "link":"http://geometrynodes.com",
-        "thumbnail":"http://geometrynodes.com/imaghes/tutorialname.png",
+        "name":"Building Generator",
+        "description":"use your own assets to build dynamic buildings from basic meshes",
+        "link":"https://blendermarket.com/products/building-gen",
+        "thumbnail":"https://d1231c29xbpffx.cloudfront.net/store/product/179145/image/cd59d11402cb4bb435a789e4e0030acd.jpg",
         "tags":[
-            "tag1","tag2"
+            "generator","for purchase"
+        ]
+    },{
+        "name":"Road Generator",
+        "description":"roads from curves",
+        "link":"https://blendermarket.com/products/curves-to-roads-v1-geometrynodes",
+        "thumbnail":"https://d1231c29xbpffx.cloudfront.net/store/product/178492/image/e0b1c3a2f6a70901f7e332007c7c3d87.png",
+        "tags":[
+            "generator","for purchase"
         ]
     }
 ]
