@@ -1,0 +1,11 @@
+[
+    {
+        "name":"tutorial name",
+        "description":"verbose description",
+        "link":"http://geometrynodes.com",
+        "thumbnail":"http://geometrynodes.com/imaghes/tutorialname.png",
+        "tags":[
+            "tag1","tag2"
+        ]
+    }
+]

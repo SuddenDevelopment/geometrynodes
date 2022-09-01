@@ -18,8 +18,14 @@ SUBMIT A PR! Bring me your projects and inspirations, market links are OK
 
 ## structure ##
 
+using Bootstrap just because it's popular and not trying to break new ground on this
+https://getbootstrap.com/docs/4.0/getting-started/introduction/
+
 1. Projects
 2. Patterns
-3. Resources (that arent projects and patterns
+3. Resources (that arent projects and patterns)
 
-each folder is a mini site for simplicity with its own images and stylesheets
+- each folder is a mini site for simplicity with its own images and stylesheets
+- all data will be in json format and kept separate from style / layout
+
+If you just want to add some info, fill in the appropriate json file.
